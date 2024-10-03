@@ -9,7 +9,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-public class Cheese {
+public class Sample {
 
     public static void main(String[] argd) {
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
